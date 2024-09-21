@@ -100,6 +100,11 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
+GOOGLE_API_KEY = ""
+
+RECAPTCHA_PUBLIC_KEY = ""
+
+RECAPTCHA_PRIVATE_KEY = ""
 
 
 # Internationalization
